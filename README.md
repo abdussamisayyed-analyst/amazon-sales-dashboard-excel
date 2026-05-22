@@ -18,7 +18,7 @@ This project is an interactive Excel dashboard created for Amazon sales analysis
 - Slicers
 
 ## Dashboard Preview
-![Dashboard](Amazon Dashboard.png)
+![Dashboard](Amazon%20Dashboard.png)
 
 ## Files Included
 - Amazon Sales data Dashboard.xlsx
