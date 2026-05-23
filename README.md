@@ -89,8 +89,7 @@ This enables detailed drill-down analysis and improves user interaction.
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](Amazon Dashboard.png)
-
+<img width="1000" alt="Dashboard Preview" src="https://github.com/abdussamisayyed-analyst/amazon-sales-dashboard-excel/blob/main/Amazon%20Dashboard.png?raw=true">
 
 ---
 
