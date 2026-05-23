@@ -89,7 +89,7 @@ This enables detailed drill-down analysis and improves user interaction.
 
 # 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Amazon Dashboard.png)
 
 ---
 
