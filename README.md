@@ -91,12 +91,13 @@ This enables detailed drill-down analysis and improves user interaction.
 
 ![Dashboard Preview](Amazon Dashboard.png)
 
+
 ---
 
 # 📂 Project Files
 
 - 📄 Amazon Sales data Dashboard.xlsx
-- 🖼️ dashboard.png
+-  🖼️ Amazon Dashboard.png
 - 📘 README.md
 
 ---
