@@ -140,7 +140,7 @@ Through this project, I improved my understanding of:
 
 ABDUSSAMI SAYYED
 
-🔗 LinkedIn: https://www.linkedin.com/in/sayyed-abdussami-a9b893353/
+🔗 LinkedIn: https: https://www.linkedin.com/feed/update/urn:li:activity:7447422569160298496/
 📧 Email: abdussamisayyed@gmail.com  
 🔗 GitHub: https://github.com/abdussamisayyed-analyst
 
